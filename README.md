@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there!👋 I'm Yunus Karatas
+## About Me🎓
 
-<!--
-**qkloun/qkloun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Florida Atlantic University (FAU), passionate about the intersection of technology and artificial intelligence. Currently pursuing:
+<ul>
+  <li><strong>🖥Bachelor's in Computer Science</strong></li>
+  <li><strong>📊Data Science</strong></li>
+  <li><strong>🤖Minor in Artificial Inteligence</strong></li>
+</ul>
 
-Here are some ideas to get you started:
+## ⭐ What I'm Learning:
+<ul>
+  <li>Machine Learning algorithms and applications</li>
+  <li>Data analysis and visualization</li>
+  <li>Software development best practices</li>
+  <li>AI ethics and responsible computing</li>
+  <li>Statistical modeling and data mining</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
