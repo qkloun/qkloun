@@ -1,5 +1,5 @@
 # Hi there!👋 I'm Yunus Karatas
-## About Me🎓
+## 🎓 About Me
 
 I'm a Computer Science student at Florida Atlantic University (FAU), passionate about the intersection of technology and artificial intelligence. Currently pursuing:
 <ul>
@@ -17,3 +17,8 @@ I'm a Computer Science student at Florida Atlantic University (FAU), passionate 
   <li>Statistical modeling and data mining</li>
 </ul>
 
+## 📈 Github Stats
+
+https://github-readme-stats.vercel.app/api?username=qkloun&show_icons=true&theme=highcontrast
+https://github-readme-stats.vercel.app/api/top-langs/?username=qkloun&layout=compact&theme=highcontrast
+https://streak-stats.demolab.com/?user=qkloun&theme=highcontrast
