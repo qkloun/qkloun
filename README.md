@@ -28,6 +28,11 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 </div>
 
 <div align="center">
-  
+
   ## 🤝 Contact 
+  💼 https://www.linkedin.com/in/yunus-karatas/ <br>
+  📱 786-774-2700 <br>
+  📮 karatasyunus@icloud.com <br>
+
+  
 </div>
