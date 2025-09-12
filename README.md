@@ -21,14 +21,13 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 
 <div align = "center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">  
-    <img src="https://github-readme-stats.vercel.app/api?username=qkloun&show_icons=true&theme=highcontrast&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=qkloun&theme=highcontrast&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkloun&layout=compact&theme=highcontrast&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=qkloun&show_icons=true&theme=dracula&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=qkloun&theme=dracula&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkloun&layout=compact&theme=dracula&hide_border=true">
   </div>
 </div>
 
 <div align="center">
   
   ## 🤝 Contact 
-  
 </div>
