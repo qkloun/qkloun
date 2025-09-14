@@ -22,6 +22,7 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,js,css,git,r,flask,tensorflow,github,mysql,react,swift,flutter&perline=5)](https://skillicons.dev)
 
 </div>
+
 ## 📈 Github Stats
 
 <div align = "center">
