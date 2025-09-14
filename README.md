@@ -16,13 +16,18 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
   - **AI ethics and responsible computing**
   - **Statistical modeling and data mining**
 
+## 🛠️ My Skills
+<div align = "center">
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,js,css,git,r,flask,tensorflow,github,mysql,react,swift,flutter&perline=5)](https://skillicons.dev)
 
+</div>
 ## 📈 Github Stats
 
 <div align = "center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">  
-    <img src="https://github-readme-stats.vercel.app/api?username=qkloun&show_icons=true&theme=dracula&hide_border=true" height ="180">
-    <img src="https://streak-stats.demolab.com/?user=qkloun&theme=dracula&hide_border=true" height ="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=qkloun&show_icons=true&theme=dracula&hide_border=true" height ="160">
+    <img src="https://streak-stats.demolab.com/?user=qkloun&theme=dracula&hide_border=true" height ="160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkloun&layout=compact&theme=dracula&hide_border=true">
   </div>
 </div>
