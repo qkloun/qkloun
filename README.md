@@ -33,6 +33,24 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
   </div>
 </div>
 
+## 🚀 Open for Opportunities
+
+I'm actively seeking **data science internships** for Summer 2025! Passionate about machine learning, data analysis, and AI applications. Eager to contribute to impactful projects while continuing to grow my analytical and technical skills.
+
+What I'm Looking For:
+- Data Science & Analytics roles
+- Machine Learning projects
+- Research opportunities in AI
+- Collaborative team environments
+
+ What I Bring:
+- Strong foundation in Python, R, and statistical modeling
+- Experience with TensorFlow and data visualization
+- Passion for solving complex problems with data
+- Quick learner with a growth mindset
+
+Let's connect and explore potential opportunities together!
+
 <div align="center">
 
 ### 🤝 Contact Me
