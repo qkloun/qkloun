@@ -51,6 +51,10 @@ What I'm Looking For:
 
 Let's connect and explore potential opportunities together!
 
+## 🌐 Community Involvement
+- 💼 **IEEE** - Institute of Electrical and Electronics Engineers
+- 🤖 **SHPE** - Society of Hispanic Professional Engineers
+ 
 <div align="center">
 
 ### 🤝 Contact Me
