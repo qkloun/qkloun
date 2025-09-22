@@ -50,10 +50,6 @@ What I'm Looking For:
 - Quick learner with a growth mindset
 
 Let's connect and explore potential opportunities together!
-
-## 🌐 Community Involvement
-- 💼 **IEEE** - Institute of Electrical and Electronics Engineers
-- 🤖 **SHPE** - Society of Hispanic Professional Engineers
  
 <div align="center">
 
