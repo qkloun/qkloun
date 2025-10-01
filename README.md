@@ -10,11 +10,15 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 
 ## ⭐ What I'm Learning:
 
-  - **Machine Learning algorithms and applications**
-  - **Data analysis and visualization**
-  - **Software development best practices**
-  - **AI ethics and responsible computing**
-  - **Statistical modeling and data mining**
+### 🌱 Currently Building:
+**Plant Disease Identification Tool** - Applying computer vision and machine learning to detect plant health issues
+
+### 📚 Expanding My Skills In:
+
+- **Deep Learning & Neural Networks** - Building more sophisticated AI models
+- **Computer Vision** - Image classification and object detection techniques
+- **Data Pipeline Development** - From data collection to model deployment
+- **MLOps & Model Deployment** - Taking models from notebooks to production
 
 ## 🛠️ My Skills
 <div align = "center">
