@@ -4,8 +4,8 @@
 I'm a Computer Science student at **Florida Atlantic University**, passionate about the intersection of technology and artificial intelligence. Currently pursuing:
 
   - **🖥Bachelor's in Computer Science**
-  - **📊Data Science**
-  - **🤖Minor in Artificial Intelligence**
+  - **📊Minor in Data Science**
+  - **🤖Artificial Intelligence**
 
 
 ## ⭐ What I'm Learning:
