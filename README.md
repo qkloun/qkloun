@@ -22,9 +22,21 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 - **MLOps & Model Deployment** - Taking models from notebooks to production
 
 ## 🛠️ My Skills
+
+
 <div align = "center">
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,js,css,git,r,flask,tensorflow,github,react,swift,mysql,arduino,flutter&perline=5)](https://skillicons.dev)
+### Programming Languages
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,r,swift,html,css)](https://skillicons.dev)
+
+### Frameworks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=flask,tensorflow,react,tailwind,opencv)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,arduino,latex)](https://skillicons.dev)
 
 </div>
 
