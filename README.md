@@ -1,5 +1,5 @@
 # Hi there!👋 I'm Yunus Karatas
-> CS student building AI solutions | Seeking Summer 2026 Data Science Internships
+> CS student building AI solutions | Seeking Summer 2026 Data Science and SWE Internships
 ## 🎓 About Me
 
 I'm a Computer Science student at **Florida Atlantic University**, passionate about the intersection of technology and artificial intelligence. Currently pursuing:
@@ -52,10 +52,11 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 
 ## 🚀 Open for Opportunities
 
-I'm actively seeking **data science internships** for Summer 2026! Passionate about machine learning, data analysis, and AI applications. Eager to contribute to impactful projects while continuing to grow my analytical and technical skills.
+I'm actively seeking **data science and SWE internships** for Summer 2026! Passionate about machine learning, data analysis, and AI applications. Eager to contribute to impactful projects while continuing to grow my analytical and technical skills.
 
 **What I'm Looking For:**
 - Data Science & Analytics roles
+- Software Engineering roles
 - Machine Learning projects
 - Research opportunities in AI
 - Collaborative team environments
