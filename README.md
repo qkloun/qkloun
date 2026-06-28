@@ -36,7 +36,7 @@ I'm a Computer Science student at **Florida Atlantic University**, passionate ab
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,arduino,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,arduino,latex,docker)](https://skillicons.dev)
 
 </div>
 
